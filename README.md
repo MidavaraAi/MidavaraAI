@@ -1,4 +1,4 @@
-# MIDAVARA AI
+# MIDAVARA 
 
 ## AI Healthcare Systems • Clinical Intelligence • Medical Innovation
 
